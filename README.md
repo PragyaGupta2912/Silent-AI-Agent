@@ -46,4 +46,4 @@ To install and run the application, follow these steps:
     
 ## Usage
 
-To use the application, navigate to the Streamlit app in your browser. You will be prompted to ask questions about TTTech Auto's services, and the Silent AI Agent will generate responses based on the provided domain-specific knowledge.
+To use the application, navigate to the Streamlit app in your browser. You will be prompted to ask questions about the services that the chatbot has been trained for, and the Silent AI Agent will generate responses based on the provided domain-specific knowledge.
