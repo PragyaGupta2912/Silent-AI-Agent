@@ -8,7 +8,6 @@ This repository contains a Streamlit application designed to improve technical s
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [License](#license)
 
 ## Introduction
